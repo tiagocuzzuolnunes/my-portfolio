@@ -1,0 +1,24 @@
+.jumbotron {
+    padding-top: 0;
+}
+
+.navbar {
+    margin: 0;
+}
+
+a {
+    color: white;
+}
+
+.page-link {
+    color: white;
+}
+
+.contact-link {
+    color: grey;
+}
+
+.icon-bar {
+    background-color: white;
+}
+
